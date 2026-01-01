@@ -1,0 +1,5 @@
+{
+  "name": "GemiTrace Financial Telemetry",
+  "description": "An enterprise-grade monitoring dashboard that leverages Gemini AI to analyze complex financial telemetry event streams, ensuring compliance and operational integrity in real-time.",
+  "requestFramePermissions": []
+}
